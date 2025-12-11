@@ -1,0 +1,1 @@
+# Assume-that-employee-do-not-work-for-fractional-part-of-an-hour
